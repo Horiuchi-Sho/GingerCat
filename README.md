@@ -12,5 +12,5 @@
 (root)
   +- Godot : Godot版アプリの配置用ディレクトリ
   +- Unity : Unity版アプリの配置用ディレクトリ
-  +- docs/Web : GitHub Pagesで公開するWebアプリの配置用ディレクトリ
+  +- docs : GitHub Pagesで公開するWebアプリの配置用ディレクトリ (直下にindex.htmlを配置する)
 ```
