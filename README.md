@@ -14,3 +14,10 @@
   +- Unity : Unity版アプリの配置用ディレクトリ
   +- docs : GitHub Pagesで公開するWebアプリの配置用ディレクトリ (直下にindex.htmlを配置する)
 ```
+
+## Godot版
+
+
+## Unity版
+- Project Settings > Player > Publishing Settings > Decompression Fallback を有効にしてビルドする
+
