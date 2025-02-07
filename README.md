@@ -1,22 +1,23 @@
 # GingerCat
 - 2024年度デジタルコム先端技術研究会で開発したアプリ
-- <img width="400px" src="imgs/Title.png">
+<img width="400px" src="imgs/Title.png">
 
 ## 概要
-「ガリレオによるピサの斜塔の実験」のような有名な物理実験を題材にして、ゲームエンジン間の物理エンジン設定や動作の違いを体感するのを目的。
-Unity と Godot で同等の物理エンジン設定を行った実験シーンを作成する。
+「ガリレオによるピサの斜塔の実験」のような有名な物理実験を題材にして、ゲームエンジン間の物理エンジン設定や動作の違いを体感するのが目的。
+
+Unity と Godot で同等の物理エンジン設定を行った実験シーンを作成し、比較する。
 
 ## [Unity版 GingerCat](https://horiuchi-sho.github.io/GingerCat/Unity/index.html)
 - ピサの斜塔の実験シーン
 - 物体の自由落下と情報表示
-- <img width="400px" src="imgs/SampleImage_Unity.png">
+<img width="400px" src="imgs/SampleImage_Unity.png">
 
 ***
 
 ## [Godot版 GingerCat](https://horiuchi-sho.github.io/GingerCat/Godot/index.html)
 - ピサの斜塔実験シーン
 - 物体の自由落下のみ
-- <img width="400px" src="imgs/SampleImage_Godot.png">
+<img width="400px" src="imgs/SampleImage_Godot.png">
 
 ## 物理エンジンの設定情報の関する調査
 
